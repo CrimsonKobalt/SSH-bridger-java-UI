@@ -1,0 +1,5 @@
+/.metadata/*
+*/.gitignore
+.classpath
+./PortForwarder/bin/*
+BuildMap/outputs/*
